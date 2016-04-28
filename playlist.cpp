@@ -6,7 +6,6 @@
    -Reproducir la lista de reproduccion entera
 
  ***************************************************************/
-
 #include "playlist.h" //Incluimos todas las librerï¿œas,
 #include "artista.h"
 #include "grupo.h"
